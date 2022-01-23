@@ -14,7 +14,8 @@ Hi, I'm Kannan Paulvannan!
 ### Skills
 <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
 <img src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" alt="SQL" width="90" height="40"/>
-<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SSMS" width="70" height="40"/></p>
+<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SSMS" width="70" height="40"/>
+<img src="https://images.credly.com/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer" width="50" height="40"/></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KannanPaul&show_icons=true" alt="KannanPaul" />
 
 <!---
